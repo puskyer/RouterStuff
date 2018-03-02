@@ -10,6 +10,7 @@
 
 targets="WZRHPG300NH WRT400N DIR601A1 TLWR841 TLWDR4300" 
 
+#git clone https://www.github.com/openwrt/openwrt -b chaos_calmer
 
 cd ~/src/routers/ChaosCalmer/openwrt
 
